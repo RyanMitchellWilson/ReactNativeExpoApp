@@ -1,5 +1,6 @@
 # ReactNativeExpoApp
 ## How to run
+- Must already have dev tools installed on your machine (ie. XCode or Android Studio)
 - Clone the repository then run
 ```
 npm install -g expo-cli
