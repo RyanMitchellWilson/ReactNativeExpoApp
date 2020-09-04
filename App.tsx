@@ -1,13 +1,14 @@
 import React from 'react'
+import { NavigationContainer } from '@react-navigation/native'
 import { Provider } from 'react-redux'
 
-import Main from './src/Views/Main'
 import store from './src/Store'
+import Navigator from './src/Navigation/Navigator'
 
 export default function App() {
   return (
     <Provider store={store}>
-      <Main/>
+      <Navigator/>
     </Provider>
   )
 }

@@ -13,3 +13,10 @@ npm start
 - App created using react-native and expo.
 - Hooked up with Redux for the flow of data and app state.
   - Can change background of app with few buttons flowing through redux to trigger the change.
+- Using React-Navigation for navigating through tabs and on tabs
+
+## TODO
+
+- [ ] Better styling throughout app
+- [ ] Break out common styles into Shared Styles
+- [ ] Proper types for all components and function
